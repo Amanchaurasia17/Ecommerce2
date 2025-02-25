@@ -6,11 +6,8 @@ This repository contains an e-commerce website project built using HTML, CSS, an
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [Projecct Link](#projectLink)
 
 ## Introduction
 
